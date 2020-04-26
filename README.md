@@ -20,3 +20,7 @@ Variables and Constants:
 
 Notes:
 1. var is the OLD declaration of the variables.  
+
+## Third Module 
+Types and Operations:
+* Easy

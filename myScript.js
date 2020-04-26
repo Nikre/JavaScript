@@ -7,3 +7,15 @@ let intVar = 65,
 
 // This is a constant 
 const pi = 3.14; // this value can't change
+
+// Like Python, but strange this quotes
+let name = "Nicolo", 
+    sentence = `Hello ${name}`,
+    surname = "Monarca";
+
+console.log(sentence);
+console.log(name + " " + surname);
+
+// null and undefined 
+let num; //undefined
+num = null; //null now is equal to null
