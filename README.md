@@ -31,3 +31,8 @@ Flow Control:
 Notes:
 1. Is present also the ternary operator.
 2. Whit _let_ initialization, the variable is deleted once the block ends, with _var_ nop.
+
+## 5° module:
+Functions:
+TO-DO
+devi verificare anche se si passa un avalore per referenza oppure no...
