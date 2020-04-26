@@ -8,3 +8,7 @@ In the first module i will learn:
 * Detecting and Fixing Errors
 * Case Sentivity
 * Commenting Code
+
+Notes:
+1. _N.B_ JavaScript is case sensitive.
+2. The comments follow the Java rules.
