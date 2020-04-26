@@ -12,3 +12,11 @@ In the first module i will learn:
 Notes:
 1. _N.B_ JavaScript is case sensitive.
 2. The comments follow the Java rules.
+
+## Second Module 
+Variables and Constants:
+* the variables are not typed
+* a variable is instantiated with the key word "let"
+
+Notes:
+1. var is the OLD declaration of the variables.  
