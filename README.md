@@ -35,3 +35,10 @@ Notes:
 ## 5° module:
 Functions:
 * Easy
+
+## 6° module:
+Objects and DOM (Document Object Model): 
+
+Notes:
+1. If is passing an object, is passed as reference, so that the value is changed. Instead if it's passed a variable, is passed as copy, so the value is not changed.
+2. The order in the html is important! Otherwise you get undefined errors!

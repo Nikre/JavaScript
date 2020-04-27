@@ -14,6 +14,10 @@ function adder(number){
     console.log(number);
 }
 
+function getText(){
+    console.log(document.getElementById("textId").textContent);
+}
+
 console.log(num);
 adder(num)
 console.log(num);
