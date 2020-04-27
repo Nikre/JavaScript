@@ -35,3 +35,7 @@ Notes:
 ## 5° module:
 Functions:
 * Easy
+
+## 6° module:
+Objects and DOM (Document Object Model): 
+*
