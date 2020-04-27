@@ -34,5 +34,4 @@ Notes:
 
 ## 5° module:
 Functions:
-TO-DO
-devi verificare anche se si passa un avalore per referenza oppure no...
+* Easy
